@@ -1,6 +1,6 @@
 # 💻 Desafio: Gerenciamento de Instâncias EC2 na AWS
 
-Este repositório contém o material referente ao desafio do módulo **"Gerenciando Instâncias EC2 na AWS"** do curso **Santander Bootcamp - Code Girls**.
+Este repositório contém o material referente ao desafio do módulo **"Gerenciando Instâncias EC2 na AWS"** do curso **Santander - Code Girls**.
 
 O objetivo é apresentar um resumo e anotações feitas durante o módulo, abordando conceitos importantes como **AMI**, **Snapshots EBS** e **gerenciamento de instâncias**.
 
